@@ -3,14 +3,14 @@ Despues de haber descargado todos mi entorno de desarrollo procedo ha realizar l
 
 # Configurarando el Git desde la terminal
 Configuramos con los comandos:
- '''git config user.name "thunder609"'''
- '''git   config  user.mail thunder609@academiagit.com'''
+ `git config user.name "thunder609"`
+ `git config  user.mail thunder609@academiagit.com` 
 
 # Creacion de Directorios y archivos del aplicativo
     Pasos para crear carpetas en mi directorio Documentos por consola
-1. /AcademiaGeek-ejercicio-uno$ mkdir AcademiaGeek-ejercicio-uno.
+1. `/AcademiaGeek-ejercicio-uno$ mkdir AcademiaGeek-ejercicio-uno. `
 
-2.  buscar la carpeta de trabajo por la terminal con el comando `cd`  /AcademiaGeek-ejercicio-uno$ cd AcademiaGeek-ejercicio-uno.
+2.  buscar la carpeta de trabajo por la terminal con el comando `cd`  ` /AcademiaGeek-ejercicio-uno$ cd AcademiaGeek-ejercicio-uno. 
 
 3. Estando en la carpeta ejercicio-uno crear un archivo con el nombre index.html y otro README.md con la siguiente estructura
 touch index.html README.md
@@ -44,9 +44,11 @@ Archivos sin seguimiento:
 
 8. Verificar los archivos adicionados con `git status`
 9. Hacer un commit: ``` git commit -m "Ejercicios Git" ```
-10. Crear un repositorio en gitHub
-11. Agregar la url del repositorio remoto
+10. Crear un repositorio en gitHub .antes ya debe crear tu usuario.
+11. Agregar la url del repositorio remoto con el siguiente comando : ``
+  en mi caso es el siguiente 
 12. terminar con `git push` para entregar los cambios a la respectiva rama.
+`$ git push origin master`
 
 ## Entrega de la tarea
 
