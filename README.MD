@@ -50,7 +50,7 @@ Archivos sin seguimiento:
   en mi caso es el siguiente 
 12. terminar con `git push` para entregar los cambios a la respectiva rama.
 `$ git push origin master`
-13. En este paso si es la primera de conectar tu terminal con ~`gitHud` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
+13. En este paso si es la primera vez de conectar tu terminal con ~`gitHud` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
 
 ## Entrega de la tarea
 
