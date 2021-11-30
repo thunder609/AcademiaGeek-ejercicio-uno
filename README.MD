@@ -37,7 +37,7 @@ touch index.html README.md
 AcademiaGeek-ejercicio-uno$ git status 
 En la rama master
 Archivos sin seguimiento:
-  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+  (usa "git add <archivo>..." para icluirlo a lo que se será confirmado)
 
         README.MD
 7. Agregar los archivos con `git add .` los archivos modificados
