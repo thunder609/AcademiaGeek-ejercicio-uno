@@ -6,6 +6,11 @@ Configuramos con los comandos:
  `git config user.name "thunder609"`
  `git config  user.mail thunder609@academiagit.com` 
  ![comando1 nuevo](git2.png)<br>
+ ![comando1 nuevo](git3.png)<br>
+ ![comando1 nuevo](git5.png)<br>
+ ![comando1 nuevo](git6.png)<br>
+ ![comando1 nuevo](git7.png)<br>
+ ![comando1 nuevo](git8.png)<br>
 # Creacion de Directorios y archivos del aplicativo
     Pasos para crear carpetas en mi directorio Documentos por consola
 1. `/AcademiaGeek-ejercicio-uno$ mkdir AcademiaGeek-ejercicio-uno. `
