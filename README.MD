@@ -6,11 +6,12 @@ Configuramos con los comandos:
  `git config user.name "thunder609"`
  `git config  user.mail thunder609@academiagit.com` 
  ![comando1 nuevo](git2.png)<br>
+ 
  ![comando1 nuevo](git3.png)<br>
  ![comando1 nuevo](git5.png)<br>
  ![comando1 nuevo](git6.png)<br>
- ![comando1 nuevo](git7.png)<br>
- ![comando1 nuevo](git8.png)<br>
+ 
+
 # Creacion de Directorios y archivos del aplicativo
     Pasos para crear carpetas en mi directorio Documentos por consola
 1. `/AcademiaGeek-ejercicio-uno$ mkdir AcademiaGeek-ejercicio-uno. `
@@ -45,6 +46,7 @@ Archivos sin seguimiento:
   (usa "git add <archivo>..." para icluirlo a lo que se será confirmado)
 
         README.MD
+![comando1 nuevo](git7.png)<br>
 7. Agregar los archivos con `git add .` los archivos modificados
 
 8. Verificar los archivos adicionados con `git status`
@@ -58,7 +60,7 @@ Archivos sin seguimiento:
 13. En este paso si es la primera vez de conectar tu terminal con ~`gitHud` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
 
 ## Entrega de la tarea
-
+![comando1 nuevo](git7.png)<br>
 Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
 
     1. Crear un Issues llamado Entrega-Modulo-0-01-primeros-pasos-Tarea-01
