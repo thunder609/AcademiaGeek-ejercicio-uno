@@ -24,7 +24,7 @@ Configuramos con los comandos:
    
  
    
-3. Estando en la carpeta ejercicio-uno crear un archivo con el nombre index.html y otro README.md con la siguiente estructura
+4. Estando en la carpeta ejercicio-uno crear un archivo con el nombre index.html y otro README.md con la siguiente estructura
 touch index.html README.md
 
 ![comando1 nuevo](git3.png)<br>
@@ -48,42 +48,41 @@ touch index.html README.md
 ```
 
 
-4. Crear un archivo README.md con la descripción de los conceptos aprendido en esta sesión
-5. Hacer un `git status` de los cambios realizados
-AcademiaGeek-ejercicio-uno$ git status 
+5. Crear un archivo README.md con la descripción de los conceptos aprendido en esta sesión
+ Hacer un `git status` de los cambios realizados AcademiaGeek-ejercicio-uno$ git status 
 En la rama master
 Archivos sin seguimiento:
   (usa "git add <archivo>..." para icluirlo a lo que se será confirmado)
 
         README.MD
 
-7. Agregar los archivos con git ```add .```los archivos modificados
+6. Agregar los archivos con git ```add .```los archivos modificados
  
- ![comando1 nuev1](git7.png)<br>
+![comando1 nuev1](git10.png)<br>
 
-8. Verificar los archivos adicionados con ```git status```
+7. Verificar los archivos adicionados con ```git status```
 ![comando1 nuevo](git8.png)<br> 
  
-9. Hacer un commit: ``` git commit -m "Ejercicios Git" ```
+8. Hacer un commit: git commit -m "Ejercicios Git":
  
-![comando1 nuevo](git11.png)<br> 
+
  
-10. Crear un repositorio en gitHub .antes ya debe crear tu usuario.
+9. Crear un repositorio en gitHub .antes ya debe crear tu usuario.
  
  
-11. Agregar la url del repositorio remoto con el siguiente comando : `con el comando git remote add origin url`
+10. Agregar la url del repositorio remoto con el siguiente comando : `con el comando git remote add origin url`
 `git remote add origin https://github.com/thunder609/AcademiaGeek-ejercicio-uno.git`
   en mi caso es el siguiente :
  
 ![comando1 nuevo](git6.png)<br>
  
-12. terminar con ```git push``` para entregar los cambios a la respectiva rama.
+11. terminar con ```git push``` para entregar los cambios a la respectiva rama.
 ```$ git push origin master```
  
 ![comando1 nuevo](git9.png)<br>
  
  
-13. En este paso si es la primera vez de conectar tu terminal con ~```gitHud``` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
+12. En este paso si es la primera vez de conectar tu terminal con ~```gitHud``` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
 
 ## Entrega de la tarea
 
