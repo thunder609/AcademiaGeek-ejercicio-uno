@@ -5,21 +5,29 @@ Despues de haber descargado todos mi entorno de desarrollo procedo ha realizar l
 Configuramos con los comandos:
  `git config user.name "thunder609"`
  `git config  user.mail thunder609@academiagit.com` 
- ![comando1 nuevo](git2.png)<br>
  
- ![comando1 nuevo](git3.png)<br>
- ![comando1 nuevo](git5.png)<br>
- ![comando1 nuevo](git6.png)<br>
+ ![comando1 nuevo](acad1.png)<br>
  
-
 # Creacion de Directorios y archivos del aplicativo
     Pasos para crear carpetas en mi directorio Documentos por consola
 1. `/AcademiaGeek-ejercicio-uno$ mkdir AcademiaGeek-ejercicio-uno. `
-
+ 
+  ![comando1 nuevo](git-mkdir.png)<br>
+  
 2.  buscar la carpeta de trabajo por la terminal con el comando `cd`  ` /AcademiaGeek-ejercicio-uno$ cd AcademiaGeek-ejercicio-uno.` 
-
+  
+   ![comando1 nuevo](git1.png)<br>
+   
+3.  Con este conmando se crea las las carpetas de vercionado del proyecto    
+   
+   ![comando1 nuevo](git-init.png)<br>   
+   
+ 
+   
 3. Estando en la carpeta ejercicio-uno crear un archivo con el nombre index.html y otro README.md con la siguiente estructura
 touch index.html README.md
+
+![comando1 nuevo](git3.png)<br>
 
 ```html 
 <!DOCTYPE html>
@@ -38,6 +46,8 @@ touch index.html README.md
 </body>
 /html
 ```
+
+
 4. Crear un archivo README.md con la descripción de los conceptos aprendido en esta sesión
 5. Hacer un `git status` de los cambios realizados
 AcademiaGeek-ejercicio-uno$ git status 
@@ -46,21 +56,37 @@ Archivos sin seguimiento:
   (usa "git add <archivo>..." para icluirlo a lo que se será confirmado)
 
         README.MD
-![comando1 nuevo](git7.png)<br>
-7. Agregar los archivos con `git add .` los archivos modificados
 
-8. Verificar los archivos adicionados con `git status`
+7. Agregar los archivos con git ```add .```los archivos modificados
+ 
+ ![comando1 nuev1](git7.png)<br>
+
+8. Verificar los archivos adicionados con ```git status```
+![comando1 nuevo](git8.png)<br> 
+ 
 9. Hacer un commit: ``` git commit -m "Ejercicios Git" ```
+ 
+![comando1 nuevo](git11.png)<br> 
+ 
 10. Crear un repositorio en gitHub .antes ya debe crear tu usuario.
+ 
+ 
 11. Agregar la url del repositorio remoto con el siguiente comando : `con el comando git remote add origin url`
 `git remote add origin https://github.com/thunder609/AcademiaGeek-ejercicio-uno.git`
-  en mi caso es el siguiente 
-12. terminar con `git push` para entregar los cambios a la respectiva rama.
-`$ git push origin master`
-13. En este paso si es la primera vez de conectar tu terminal con ~`gitHud` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
+  en mi caso es el siguiente :
+ 
+![comando1 nuevo](git6.png)<br>
+ 
+12. terminar con ```git push``` para entregar los cambios a la respectiva rama.
+```$ git push origin master```
+ 
+![comando1 nuevo](git9.png)<br>
+ 
+ 
+13. En este paso si es la primera vez de conectar tu terminal con ~```gitHud``` te pedira contraseña o la sincronizacion si usa la terminal de Visual Studio Code
 
 ## Entrega de la tarea
-![comando1 nuevo](git7.png)<br>
+
 Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
 
     1. Crear un Issues llamado Entrega-Modulo-0-01-primeros-pasos-Tarea-01
