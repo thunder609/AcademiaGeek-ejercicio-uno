@@ -65,6 +65,8 @@ Archivos sin seguimiento:
  
 8. Hacer un commit: git commit -m "Ejercicios Git":
  
+![comando1 nuevo](git13.png)<br> 
+ 
 
  
 9. Crear un repositorio en gitHub .antes ya debe crear tu usuario.
